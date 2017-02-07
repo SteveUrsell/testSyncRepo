@@ -1,3 +1,8 @@
 # testSyncRepo
 Test push pull
-# New title comment
+## New secondary heading
+Normal Text
+### Tertiary heading
+* 1
+* 2
+
